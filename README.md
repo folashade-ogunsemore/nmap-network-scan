@@ -14,6 +14,7 @@ This project demonstrates a basic network scan performed on a local system using
 ![Scan Results](./scan_results.pdf)
 ## Findings
 The scan revealed open ports indicating active services running on the system. Open ports can represent potential entry points that attackers may exploit if not properly secured.
+Also Port 22 (SSH) and Port 80 (HTTP) were identified as open, indicating active services that could be potential entry points if not secured.
 
 ## What I Learned
 - How to identify open ports using network scanning tools
