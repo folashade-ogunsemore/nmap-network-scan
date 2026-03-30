@@ -11,7 +11,7 @@ This project demonstrates a basic network scan performed on a local system using
 - Identified open TCP ports and associated services
 
 ## Scan Results
-![Scan Results](scan_results.png)
+![Scan Results](./scan_results.png)
 
 ## Findings
 The scan revealed open ports indicating active services running on the system. Open ports can represent potential entry points that attackers may exploit if not properly secured.
